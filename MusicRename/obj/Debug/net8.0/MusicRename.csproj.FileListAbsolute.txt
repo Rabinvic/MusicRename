@@ -1,0 +1,16 @@
+C:\Users\vrabi\Documents\MusicRename\MusicRename\bin\Debug\net8.0\MusicRename.exe
+C:\Users\vrabi\Documents\MusicRename\MusicRename\bin\Debug\net8.0\MusicRename.deps.json
+C:\Users\vrabi\Documents\MusicRename\MusicRename\bin\Debug\net8.0\MusicRename.runtimeconfig.json
+C:\Users\vrabi\Documents\MusicRename\MusicRename\bin\Debug\net8.0\MusicRename.dll
+C:\Users\vrabi\Documents\MusicRename\MusicRename\bin\Debug\net8.0\MusicRename.pdb
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.AssemblyInfoInputs.cache
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.AssemblyInfo.cs
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.csproj.CoreCompileInputs.cache
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.dll
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\refint\MusicRename.dll
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.pdb
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.genruntimeconfig.cache
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\ref\MusicRename.dll
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.csproj.AssemblyReference.cache
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Debug\net8.0\MusicRename.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig

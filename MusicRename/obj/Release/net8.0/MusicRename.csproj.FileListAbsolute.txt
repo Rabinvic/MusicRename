@@ -1,0 +1,2 @@
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Release\net8.0\MusicRename.csproj.AssemblyReference.cache
+C:\Users\vrabi\Documents\MusicRename\MusicRename\obj\Release\net8.0\MusicRename.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
